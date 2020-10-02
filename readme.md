@@ -5,7 +5,7 @@ Source code example for [A simple website in node.js with express, jade and styl
 
 Build
 -----
-
+To build this 
 Run this command in console:
 
 ```
